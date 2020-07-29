@@ -1,13 +1,13 @@
 {
-  "main.css": "/dots/static/css/main.0681f254.chunk.css",
-  "main.js": "/dots/static/js/main.250f2c89.chunk.js",
-  "main.js.map": "/dots/static/js/main.250f2c89.chunk.js.map",
-  "runtime~main.js": "/dots/static/js/runtime~main.8e324884.js",
-  "runtime~main.js.map": "/dots/static/js/runtime~main.8e324884.js.map",
-  "static/js/2.2b378aa5.chunk.js": "/dots/static/js/2.2b378aa5.chunk.js",
-  "static/js/2.2b378aa5.chunk.js.map": "/dots/static/js/2.2b378aa5.chunk.js.map",
-  "index.html": "/dots/index.html",
-  "precache-manifest.2e32e251f2e8a972a1052d3a4ddf2f37.js": "/dots/precache-manifest.2e32e251f2e8a972a1052d3a4ddf2f37.js",
-  "service-worker.js": "/dots/service-worker.js",
-  "static/css/main.0681f254.chunk.css.map": "/dots/static/css/main.0681f254.chunk.css.map"
+  "main.css": "/worley/static/css/main.0681f254.chunk.css",
+  "main.js": "/worley/static/js/main.46ce9247.chunk.js",
+  "main.js.map": "/worley/static/js/main.46ce9247.chunk.js.map",
+  "runtime~main.js": "/worley/static/js/runtime~main.ad0f5328.js",
+  "runtime~main.js.map": "/worley/static/js/runtime~main.ad0f5328.js.map",
+  "static/js/2.2b378aa5.chunk.js": "/worley/static/js/2.2b378aa5.chunk.js",
+  "static/js/2.2b378aa5.chunk.js.map": "/worley/static/js/2.2b378aa5.chunk.js.map",
+  "index.html": "/worley/index.html",
+  "precache-manifest.8fb283a8968f021ce069d362775814a2.js": "/worley/precache-manifest.8fb283a8968f021ce069d362775814a2.js",
+  "service-worker.js": "/worley/service-worker.js",
+  "static/css/main.0681f254.chunk.css.map": "/worley/static/css/main.0681f254.chunk.css.map"
 }
