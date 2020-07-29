@@ -1,8 +1,8 @@
 {
-  "name": "marching-square",
+  "name": "worley",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bengosney.github.io/dots/",
+  "homepage": "https://bengosney.github.io/worley/",
   "dependencies": {
     "open-simplex-noise": "^2.4.0-pre4",
     "react": "^16.8.4",
